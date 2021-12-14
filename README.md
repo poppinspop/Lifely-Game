@@ -2,7 +2,9 @@
 
 
 ## Credits
-Prisha Prasad
+All graphics and backgrounds made by Prisha Prasad in Adobe Photoshop and Autodesk.
+All programming algorithms and gameplay source code written by Prisha Prasad.
+All artwork is original and handmade.
 
 
 ## How to play
